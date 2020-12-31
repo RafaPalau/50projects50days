@@ -1,4 +1,4 @@
-# 50projects50days
+# 50 projects 50 days
 
 ## Day 1 Expanding Cards
 https://day-1-expanding-cards.netlify.app/
