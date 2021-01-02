@@ -10,13 +10,13 @@ https://day-3-rotating-navigation.netlify.app/
 https://day-4-hidden-search-widget.netlify.app/
 ## day 5 Blurry Loading
 https://day-5-blurry-loading.netlify.app/
-## Day 6 - Scroll Animation
+## Day 6 Scroll Animation
 https://day-6-scroll-animation.netlify.app/
-## Day 7 - Split Landing Page
+## Day 7 Split Landing Page
 https://day-7-split-landing-page.netlify.app/
-## Day 8 - Form wave Animation
+## Day 8 Form wave Animation
 https://day-8-form-wave-animation.netlify.app/
-## Day 9 - Sound Board
+## Day 9 Sound Board
 https://day-9-sound-board.netlify.app/
 
 License
