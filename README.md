@@ -14,3 +14,5 @@ https://day-5-blurry-loading.netlify.app/
 https://day-6-scroll-animation.netlify.app/
 ## Day 7 - Split Landing Page
 https://day-7-split-landing-page.netlify.app/
+## Day 8 - Form wave Animation
+https://day-8-form-wave-animation.netlify.app/
